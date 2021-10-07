@@ -1,3 +1,7 @@
 Esta es una breve biografía de Ignacio Yon.
 
 Tengo 26 años de edad y vivo en ciudad de Guatemala desde que nací.
+
+Estoy actualmente estudiando para poder trabajar y controlar Git y Github.
+
+Actualmente estoy a punto de cerrar el pensúm de mi carrera universitaria.
